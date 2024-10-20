@@ -1,4 +1,4 @@
-export const MONTHGODB_CONNECTION="";
+export const MONGODB_CONNECTION="";
 
 export const JWT_SECRET = "kgqecnuwef5v7fhkc445fjs";
 export const JWT_EXPIRATION_TIME = 60*60*24*30;
@@ -17,3 +17,4 @@ export const REQUEST_LIMIT_NUMBER =3000;//per 15 Min 3000 Requests Allowed
 
 
 export const WEB_CACHE=false;
+export const PORT=5050;
